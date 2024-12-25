@@ -1,6 +1,7 @@
 # Conditional StyleGAN2 (条件StyleGAN2)
 
-该程序为条件SetyleGAN2的衍生版本，增加了条件式生成功能，可以有控制地生成复合标签的图像，并在气液两相流中的气泡图像上进行了训练和测试。
+A derivative of SetyleGAN2. Conditional generation, which allows for the controlled generation of composite labeled images, was implemented and trained and tested on images of bubbles in gas-liquid two-phase flows.
+SetyleGAN2的衍生版本，增加了条件式生成功能，可以有控制地生成复合标签的图像，并在气液两相流中的气泡图像上进行了训练和测试。
 
 ## Fork from:
 https://github.com/rosinality/stylegan2-pytorch
